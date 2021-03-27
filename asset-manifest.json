@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.3cc3f65b.chunk.css",
-    "main.js": "/static/js/main.31867af9.chunk.js",
-    "main.js.map": "/static/js/main.31867af9.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c4c3b480.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c4c3b480.js.map",
-    "static/js/2.549acbc6.chunk.js": "/static/js/2.549acbc6.chunk.js",
-    "static/js/2.549acbc6.chunk.js.map": "/static/js/2.549acbc6.chunk.js.map",
-    "static/js/3.13ed5c5f.chunk.js": "/static/js/3.13ed5c5f.chunk.js",
-    "static/js/3.13ed5c5f.chunk.js.map": "/static/js/3.13ed5c5f.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.3cc3f65b.chunk.css.map": "/static/css/main.3cc3f65b.chunk.css.map",
-    "static/js/2.549acbc6.chunk.js.LICENSE.txt": "/static/js/2.549acbc6.chunk.js.LICENSE.txt",
-    "static/media/Bazaarvoice_logo.fdf570aa.png": "/static/media/Bazaarvoice_logo.fdf570aa.png"
+    "main.css": "/taskApp/static/css/main.3cc3f65b.chunk.css",
+    "main.js": "/taskApp/static/js/main.31867af9.chunk.js",
+    "main.js.map": "/taskApp/static/js/main.31867af9.chunk.js.map",
+    "runtime-main.js": "/taskApp/static/js/runtime-main.1523b9a0.js",
+    "runtime-main.js.map": "/taskApp/static/js/runtime-main.1523b9a0.js.map",
+    "static/js/2.549acbc6.chunk.js": "/taskApp/static/js/2.549acbc6.chunk.js",
+    "static/js/2.549acbc6.chunk.js.map": "/taskApp/static/js/2.549acbc6.chunk.js.map",
+    "static/js/3.13ed5c5f.chunk.js": "/taskApp/static/js/3.13ed5c5f.chunk.js",
+    "static/js/3.13ed5c5f.chunk.js.map": "/taskApp/static/js/3.13ed5c5f.chunk.js.map",
+    "index.html": "/taskApp/index.html",
+    "static/css/main.3cc3f65b.chunk.css.map": "/taskApp/static/css/main.3cc3f65b.chunk.css.map",
+    "static/js/2.549acbc6.chunk.js.LICENSE.txt": "/taskApp/static/js/2.549acbc6.chunk.js.LICENSE.txt",
+    "static/media/Bazaarvoice_logo.fdf570aa.png": "/taskApp/static/media/Bazaarvoice_logo.fdf570aa.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c4c3b480.js",
+    "static/js/runtime-main.1523b9a0.js",
     "static/js/2.549acbc6.chunk.js",
     "static/css/main.3cc3f65b.chunk.css",
     "static/js/main.31867af9.chunk.js"
