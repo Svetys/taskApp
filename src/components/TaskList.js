@@ -6,7 +6,7 @@ const TaskList = ({list, click}) => {
     if (list) {
         return  list.map((el, id) => {
         return (
-            <Task el={el} key={id} click={click} id={id}/>
+            <Task defaultValue={el} key={id} click={click} id={id}/>
             );
 		});
     } else return (
