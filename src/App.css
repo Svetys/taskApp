@@ -127,6 +127,13 @@ textarea {
   color: white;
 }
 
+textarea, .btn-secondary {
+  outline: 0;
+}
+
+.btn-secondary:hover {
+  color: black;
+}
 
 
 .single-task {
