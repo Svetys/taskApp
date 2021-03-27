@@ -1,0 +1,153 @@
+.header {
+  display: flex;
+  height: 10vh;
+}
+
+.header-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+}
+
+.header p, h3 {
+  margin: 0;
+  padding: 2px;
+}
+
+h2 {
+  margin: 15px 0 15px 0;
+  padding: 0 0 0 5px;
+}
+
+img {
+  max-width: 50%;
+}
+
+.App_boxes {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  height: 75vh;
+}
+
+.fullBox {
+  height: 100%;
+  width: 25%;
+  margin: 0 20px 0 20px;
+}
+
+.box {
+  background-color: #FFBE0B;
+  height: calc(100% - 58px);
+  border-radius: 15px;
+  box-shadow: 0 15px 10px rgb(129, 129, 129);
+}
+
+
+.footer {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  height: 15vh;
+}
+
+.footer p {
+  margin: 5px;
+}
+
+.footer-text {
+  margin: 10px;
+}
+
+.box-items {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.button-primary {
+  align-self: flex-end;
+  position: absolute;
+  top: 90%;
+  right: -30px;
+  border: 0px;
+  border-radius: 80%;
+  width: 75px;
+  height: 75px;
+  font-size: 4em;
+  color: #A6AEB8;
+  background-color: rgba(243,244,245, 0.9);
+  cursor: pointer;
+}
+
+.button-primary:focus {
+  outline: 0px;
+}
+
+.button-primary:hover {
+  color: #FFF;
+  background-color: rgba(243,244,245, 0.8);
+}
+
+.button-primary:active {
+  transform: translate(3px, 3px);
+}
+
+.listedTasks {
+  overflow-y: scroll;
+  max-height: 90%;
+  outline: 0;
+
+}
+
+textarea {
+  resize: none;
+  width: 80%;
+  height: 45px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background-color: #F7AF00;
+  color: #FFF;
+  white-space: normal;
+  text-align: justify;
+  -moz-text-align-last: center; /* Firefox 12+ */
+  text-align-last: center;
+  font-size: 1.5em;
+  padding-top: 7px;
+
+}
+
+.btn-secondary {
+  width: 20%;
+  border: 0;
+  background-color: #F7AF00;
+  font-size: 1.5em;
+  color: white;
+}
+
+
+
+.single-task {
+  display: flex;
+}
+
+.listedTasks:first-child {
+  border-radius: 15px 15px 0 0;
+}
+
+
+.completed-task textarea {
+  color: black;
+  text-decoration: line-through;
+}
+
+.completed-task .btn-secondary {
+  color: black;
+}
+
+#0 textarea {
+  color: black;
+  text-decoration: line-through;
+}
