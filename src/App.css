@@ -148,10 +148,12 @@ textarea, .btn-secondary {
 .completed-task textarea {
   color: black;
   text-decoration: line-through;
+  background-color: #FFDB30;
 }
 
 .completed-task .btn-secondary {
   color: black;
+  background-color: #FFDB30;
 }
 
 #0 textarea {
